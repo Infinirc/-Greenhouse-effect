@@ -1,4 +1,4 @@
-# Arduino溫室效應實作
+# Arduino偵測溫室效應實作
 
 材料：DHT22、Arduino、杜邦線
 
